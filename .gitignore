@@ -9,3 +9,5 @@ NAMESPACE
 *.orig
 *.rej
 *.so
+src/*.so
+src/*.o
