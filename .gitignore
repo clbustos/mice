@@ -11,3 +11,4 @@ NAMESPACE
 *.so
 src/*.so
 src/*.o
+RcppExports.*
